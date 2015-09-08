@@ -11,6 +11,7 @@ $btn-primary-bg:                   #c0392b;
 
 $navbar-height:                    45px;
 
+@import "bootstrap-sprockets";
 @import 'bootstrap';
 
 .navbar-brand {
